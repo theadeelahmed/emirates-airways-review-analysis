@@ -1,6 +1,6 @@
 # Emirates Review EDA
 
-**Author:** Adeel (Roll No: 261985)
+**Author:** Adeel Ahmed 
 
 ## Project Overview
 Simple exploratory data analysis of Emirates Airways reviews. We compare Economy, Business, and First Class on features like seating, staff service, food quality, WiFi, and value for money to find what drives customer satisfaction and recommendations.
